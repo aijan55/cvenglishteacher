@@ -1,0 +1,19 @@
+body {background-color:#C1FFD7;}
+hr{
+   color: white;
+  background-color: white,
+  color:grey;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width:5px;
+  }
+img {height:200px;}
+hr {
+  background-color: white;
+  background-height: 0px;
+  border-color:grey;
+  width:5%
+
+
+}
